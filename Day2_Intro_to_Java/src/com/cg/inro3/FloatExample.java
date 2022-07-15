@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class FloatExample {
 
 	public static void main(String[] args) {
+		//giving user input
 		Scanner s=new Scanner(System.in);
 		float x=s.nextFloat();
 		System.out.println(x);
