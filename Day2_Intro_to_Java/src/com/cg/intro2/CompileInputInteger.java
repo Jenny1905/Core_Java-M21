@@ -1,6 +1,6 @@
 package com.cg.intro2;
 
-public class Program1 {
+public class CompileInputInteger {
 
 	public static void main(String[] args) {
 		int a=25;

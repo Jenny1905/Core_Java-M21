@@ -2,7 +2,7 @@ package com.cg.intro2;
 
 import java.util.Scanner;
 
-public class Program3 {
+public class NestedLoop {
 
 	public static void main(String[] args) {
 		Scanner s=new Scanner(System.in);

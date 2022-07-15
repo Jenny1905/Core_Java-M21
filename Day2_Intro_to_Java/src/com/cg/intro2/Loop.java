@@ -2,7 +2,7 @@ package com.cg.intro2;
 
 import java.util.Scanner;
 
-public class Program2 {
+public class Loop {
 
 	public static void main(String[] args) {
 		Scanner s=new Scanner(System.in);
