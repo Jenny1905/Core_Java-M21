@@ -28,9 +28,12 @@ public class ParameterizedConstructor {
 
 	public static void main(String[] args) {
 		Scanner s=new Scanner(System.in);
+		System.out.println("Enter the value for First Person ");
 		int rollno=s.nextInt();
 		String name=s.nextLine();
-		int rollno1=s.nextInt();;
+		System.out.println("Enter the value for second Person ");
+
+		int rollno1=s.nextInt();
 		String name1=s.nextLine();
 		//obj creation
 		C obj=new C(rollno,name);
