@@ -2,7 +2,7 @@ package com.cg.encap.pack3;
 
 public class HDFC 
 {
-	private int pin=1221;
+	private int pin;
 
 	public int getPin() {
 		return pin;
