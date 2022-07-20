@@ -4,7 +4,7 @@ class Triber
 {
 	int speed;
 	String engine;
-	//zero-paramater
+	//zero-parameter
 	Triber()
 	{
 		System.out.println("Renault-kiger");
