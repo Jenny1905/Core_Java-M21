@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class LeftTriangle {
 
 	public static void main(String[] args) {
+		@SuppressWarnings("resource")
 		Scanner s=new Scanner(System.in);
 		int n=s.nextInt();
 		//to print left-angled triangle
@@ -24,6 +25,7 @@ public class LeftTriangle {
 				
 			}
 			System.out.println();
+			//s.close();
 		}
 
 	}
